@@ -4,8 +4,9 @@
 개조인간 탈출게임(3D)
 
 ## 조원 
-강라윤
-곽다은
+강라윤 https://github.com/bornlver/team_5
+
+곽다은 https://github.com/kdudu123/Team_5/blob/main/README.md
 
 ## 기획의도
 방탈출 + 대탈출(미래연구소)를 베이스로 인기 컨텐츠를 제작하였음.
