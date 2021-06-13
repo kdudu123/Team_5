@@ -19,7 +19,7 @@ FPS탈출게임을 제작함.
 
 주 타겟층은 10-30대로 대부분의 게임을 좋아하는 사람이라면 부담없이 즐길 수 있게 제작.
 
-게임은 2300년 개조인간 실험실을 배경으로 탈출이 이루어짐.
+게임은 2050년 개조인간 실험실을 배경으로 탈출이 이루어짐.
 
 ## 4. 시나리오
 
@@ -39,27 +39,42 @@ Time 23:59……
 탈출하기 위해서는 특정 옴닉들을 죽여야한다. 그리고 코인을 5개 이상먹으면 탈출할 수 있는 문이 열린다.
 옴닉은 모두 랜덤으로 생성이 된다.
 
-## 플레이어조작키
+## 6. 다운받은 ASSET
 
-- 플레이어 조작키 : W/A/S/D/
+- PLAYER ASSET
+
+![KakaoTalk_20210613_221715719](https://user-images.githubusercontent.com/81173909/121813749-70902900-cca8-11eb-98f6-982b348eb89e.png)
+
+- BACK GROUND(LIGHT & MAP) & MONSTER ASSETS
+
+![KakaoTalk_20210613_221715719_01](https://user-images.githubusercontent.com/81173909/121813755-76860a00-cca8-11eb-9f3a-1199a3bfa270.png)
+
+## 7. 플레이어조작키
+
+- 플레이어 조작키 : W/A/S/D/SPACE BAR
 
 - 공격은 좌클릭.
 
 - 총알 장전은 R버튼이다.
 
 
-## 순서도
--코인순서도
+## 8. 순서도
+
+- 코인순서도
+
 ![코인 순서도](https://user-images.githubusercontent.com/81173909/121811840-96193480-cca0-11eb-8db4-20af3de38104.JPG)
 
--공격순서도
+- 공격순서도
+
 ![공격코드](https://user-images.githubusercontent.com/81173909/121811822-8b5e9f80-cca0-11eb-8318-57321291bb26.JPG)
 
--전체 순서도
-![전체순서도](https://user-images.githubusercontent.com/81173909/121811835-931e4400-cca0-11eb-9167-cdedd0dff0a3.JPG)
+- 전체 순서도
+
+![전체순서도 최종](https://user-images.githubusercontent.com/81173909/121813681-227b2580-cca8-11eb-97d6-9ed332afc288.JPG)
 
 
-### 게임 실행화면
+
+## 9. 게임 실행화면
 - 플레이어가 총을 쏜다
 ![유니티](https://user-images.githubusercontent.com/81173909/121811375-3c643a80-cc9f-11eb-9d43-e28c9e355da3.JPG)
 - 플레이어가 총을 쏘면 로봇이 쓰러진다
@@ -76,10 +91,9 @@ Time 23:59……
 - 이렇게 생긴 기름통은 플레이어가 총으로 쏠 수 있다.
 ![유니티4](https://user-images.githubusercontent.com/81173909/121811401-4e45dd80-cc9f-11eb-9e4a-f4387b098141.JPG)
 - 플레이어가 기름통을 총으로쏘면 로봇과 동일하게 터진다.
-- 만약 주변에 로봇이 있는 경우 
+- 만약 주변에 로봇이 있는 경우 기름통이 터지면 로봇도 함께 죽는다.
 ![유니티5](https://user-images.githubusercontent.com/81173909/121811406-5140ce00-cc9f-11eb-93c4-ebf7e3116769.JPG)
 
-## 소스코드
+## 10. 소스코드
 
-##  게임요소
 
