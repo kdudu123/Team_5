@@ -75,6 +75,12 @@ Time 23:59……
 
 
 ## 9. 게임 실행화면
+- 게임을 실행한다(메인화면)
+![KakaoTalk_20210614_022221933](https://user-images.githubusercontent.com/81173909/121817097-3b8cd200-ccba-11eb-8486-60675b4fc21a.png)
+
+- GameRule을 좌클릭(게임방법)
+![KakaoTalk_20210614_022629196](https://user-images.githubusercontent.com/81173909/121817099-3d569580-ccba-11eb-8e79-038517ffb826.png)
+
 - 플레이어가 총을 쏜다
 ![유니티](https://user-images.githubusercontent.com/81173909/121811375-3c643a80-cc9f-11eb-9d43-e28c9e355da3.JPG)
 - 플레이어가 총을 쏘면 로봇이 쓰러진다
@@ -93,10 +99,12 @@ Time 23:59……
 - 플레이어가 기름통을 총으로쏘면 로봇과 동일하게 터진다.
 - 만약 주변에 로봇이 있는 경우 기름통이 터지면 로봇도 함께 죽는다.
 ![유니티5](https://user-images.githubusercontent.com/81173909/121811406-5140ce00-cc9f-11eb-93c4-ebf7e3116769.JPG)
+- 게임엔딩화면(Game Clear)
+![KakaoTalk_20210614_022629196_01](https://user-images.githubusercontent.com/81173909/121817119-53fcec80-ccba-11eb-8953-2c2c41e33cb0.png)
 
 ## 10. 소스코드
 
-- 적(몬스터) 스크립트 / 스크립트명: Ememy 
+- 적(몬스터) 스크립트 / 스크립트명: Enemy 
 
 ![image](https://user-images.githubusercontent.com/81173909/121816002-1eed9b80-ccb4-11eb-839f-0ad62f4d5e73.png)
 ![image](https://user-images.githubusercontent.com/81173909/121816005-2319b900-ccb4-11eb-8c65-e1ee2fbdd4b4.png)
