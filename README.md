@@ -1,5 +1,5 @@
 # TEAM 5 - F's Lab(F의 실험실)
-개조인간 탈출게임(3D)
+실험실 탈출기(3D)
 
 ## 1. 게임장르
 탈출게임(3D)
@@ -49,9 +49,35 @@ Time 23:59……
 
 
 ## 순서도
+-코인순서도
+![코인 순서도](https://user-images.githubusercontent.com/81173909/121811840-96193480-cca0-11eb-8db4-20af3de38104.JPG)
+
+-공격순서도
+![공격코드](https://user-images.githubusercontent.com/81173909/121811822-8b5e9f80-cca0-11eb-8318-57321291bb26.JPG)
+
+-전체 순서도
+![전체순서도](https://user-images.githubusercontent.com/81173909/121811835-931e4400-cca0-11eb-9167-cdedd0dff0a3.JPG)
+
 
 ### 게임 실행화면
-![팀5](https://user-images.githubusercontent.com/81173909/120945771-3f2dcf80-c775-11eb-9b5a-256b32a3cd2b.jpg)
+- 플레이어가 총을 쏜다
+![유니티](https://user-images.githubusercontent.com/81173909/121811375-3c643a80-cc9f-11eb-9d43-e28c9e355da3.JPG)
+- 플레이어가 총을 쏘면 로봇이 쓰러진다
+![유니티1](https://user-images.githubusercontent.com/81173909/121811388-48e89300-cc9f-11eb-929a-c2b2fadb28e3.JPG)
+- 플레이어가 총을 쏘고 로봇이 쓰러지면 터진다
+![유니티2](https://user-images.githubusercontent.com/81173909/121811392-4a19c000-cc9f-11eb-8386-4771582b648d.JPG)
+- 사진에서 보는 것과 같이 코인들이 랜덤으로 있다. 코인을 수집하자
+![유니티3](https://user-images.githubusercontent.com/81173909/121811397-4d14b080-cc9f-11eb-9206-458e9fa6a151.JPG)
+- 코인을 수집하면 사진과 같이 UI가 작동한다.(UI를 보면 코인숫자가 점점 올라간다)
+![KakaoTalk_20210613_233926991_02](https://user-images.githubusercontent.com/81173909/121812182-e349d600-cca1-11eb-9305-54c536785f7e.png)
+![KakaoTalk_20210613_233926991_01](https://user-images.githubusercontent.com/81173909/121812198-f8266980-cca1-11eb-816f-1840bdac4b2a.png)
+![KakaoTalk_20210613_233926991](https://user-images.githubusercontent.com/81173909/121812194-f2308880-cca1-11eb-9ef6-764b8bda6458.png)
+
+- 이렇게 생긴 기름통은 플레이어가 총으로 쏠 수 있다.
+![유니티4](https://user-images.githubusercontent.com/81173909/121811401-4e45dd80-cc9f-11eb-9e4a-f4387b098141.JPG)
+- 플레이어가 기름통을 총으로쏘면 로봇과 동일하게 터진다.
+- 만약 주변에 로봇이 있는 경우 
+![유니티5](https://user-images.githubusercontent.com/81173909/121811406-5140ce00-cc9f-11eb-93c4-ebf7e3116769.JPG)
 
 ## 소스코드
 
