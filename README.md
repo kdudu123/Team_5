@@ -96,4 +96,31 @@ Time 23:59……
 
 ## 10. 소스코드
 
+- 적(몬스터) 스크립트 / 스크립트명: Ememy 
+
+![image](https://user-images.githubusercontent.com/81173909/121816002-1eed9b80-ccb4-11eb-839f-0ad62f4d5e73.png)
+![image](https://user-images.githubusercontent.com/81173909/121816005-2319b900-ccb4-11eb-8c65-e1ee2fbdd4b4.png)
+
+- 코인(아이템) 스크립트 / 스크립트명: Coin
+
+![image](https://user-images.githubusercontent.com/81173909/121816030-447aa500-ccb4-11eb-9165-afbfc34b329f.png)
+
+- 코인 스코어 스크립트 / 스크립트명: Score
+
+![image](https://user-images.githubusercontent.com/81173909/121816041-552b1b00-ccb4-11eb-80fb-8ef20872dadb.png)
+
+- 문(탈출) 스크립트 / 스크립트명: Door
+
+![image](https://user-images.githubusercontent.com/81173909/121816060-6542fa80-ccb4-11eb-855d-b70533511e75.png)
+
+- 메인 메뉴 스크립트 / 스크립트명: Change
+
+![image](https://user-images.githubusercontent.com/81173909/121816073-7429ad00-ccb4-11eb-936a-b7e30fbbcd9a.png)
+
+- 게임 설명 스크립트 / 스크립트명: Change2
+
+![image](https://user-images.githubusercontent.com/81173909/121816083-80156f00-ccb4-11eb-9aa9-160f88d0902f.png)
+
+
+
 
